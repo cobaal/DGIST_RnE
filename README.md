@@ -2,7 +2,7 @@
 2019 DGIST CSILab R&amp;E
 
 # install (Machine learning)
-- install python 3.6
-- install numpy
-- install pandas
-- install pyserial
+- python 3.6
+- pip install numpy
+- pip install pandas
+- pip install pyserial
